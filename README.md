@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Industrial Control and IOT
+- 🌱 I’m currently learning embedded
+
 <!--
 **zhangsanbin/zhangsanbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
